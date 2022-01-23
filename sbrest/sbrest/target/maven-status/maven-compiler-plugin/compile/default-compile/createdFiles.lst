@@ -1,0 +1,6 @@
+sbrest\model\dao\jpa\StudentDaoImpl.class
+sbrest\model\Student.class
+sbrest\model\dao\StudentDao.class
+sbrest\web\controller\StudentsController.class
+sbrest\model\StudentGroup.class
+sbrest\SbrestApplication.class
